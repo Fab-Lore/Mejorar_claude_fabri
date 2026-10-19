@@ -1,0 +1,13 @@
+{
+  "name": "session-band",
+  "version": "0.3.0",
+  "description": "Band above the prompt: turn number, output speed, turn and session cost, prompt cache countdown, context fill and plan usage (5-hour session % and time to reset); notifies before the cache expires.",
+  "author": {
+    "name": "johnnyvizz",
+    "url": "https://github.com/johnnyvizz"
+  },
+  "types": "./types/index.d.ts",
+  "homepage": "https://github.com/TU_USUARIO/mod-claude/tree/main/plugins/session-band",
+  "repository": "https://github.com/TU_USUARIO/mod-claude",
+  "license": "MIT"
+}
