@@ -18,7 +18,7 @@ Mi versión modificada de [claude-kit](https://github.com/johnnyvizz/claude-kit)
 En Claude Code:
 
 ```
-/plugin marketplace add TU_USUARIO/mod-claude
+/plugin marketplace add Fab-Lore/Mejorar_claude_fabri
 /plugin install session-band@mod-claude
 /plugin install savvy-progress@mod-claude
 /plugin install savvy-flow@mod-claude
@@ -31,7 +31,7 @@ Reinicia la sesión después.
 Claude Code solo le pasa los límites del plan al comando de la línea de estado. Clona el repo y agrega esto a `~/.claude/settings.json`:
 
 ```bash
-git clone https://github.com/TU_USUARIO/mod-claude.git ~/mod-claude
+git clone https://github.com/Fab-Lore/Mejorar_claude_fabri.git ~/mod-claude
 ```
 
 ```json

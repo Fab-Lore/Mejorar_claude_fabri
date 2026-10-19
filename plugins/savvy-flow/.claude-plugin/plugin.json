@@ -3,11 +3,11 @@
   "version": "1.2.0",
   "description": "Orchestrated delivery flow: the session model plans, owns design and reviews; five tiered worker subagents implement. Pairs with the savvy-progress mod for a live progress bar and agents panel.",
   "author": {
-    "name": "johnnyvizz",
-    "url": "https://github.com/johnnyvizz"
+    "name": "Fab-Lore",
+    "url": "https://github.com/Fab-Lore"
   },
-  "homepage": "https://github.com/TU_USUARIO/mod-claude/tree/main/plugins/savvy-flow",
-  "repository": "https://github.com/TU_USUARIO/mod-claude",
+  "homepage": "https://github.com/Fab-Lore/Mejorar_claude_fabri/tree/main/plugins/savvy-flow",
+  "repository": "https://github.com/Fab-Lore/Mejorar_claude_fabri",
   "license": "MIT",
   "keywords": [
     "skill",

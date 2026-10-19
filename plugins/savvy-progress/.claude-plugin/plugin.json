@@ -3,8 +3,8 @@
   "version": "1.3.0",
   "description": "Progress bar above the prompt for /savvy-flow, plus an agents panel (/agents-info): running, finished and planned subagents with model, task progress, context, cost and time.",
   "author": {
-    "name": "johnnyvizz",
-    "url": "https://github.com/johnnyvizz"
+    "name": "Fab-Lore",
+    "url": "https://github.com/Fab-Lore"
   },
   "types": "./types/index.d.ts",
   "userConfig": {
@@ -31,7 +31,7 @@
       ]
     }
   },
-  "homepage": "https://github.com/TU_USUARIO/mod-claude/tree/main/plugins/savvy-progress",
-  "repository": "https://github.com/TU_USUARIO/mod-claude",
+  "homepage": "https://github.com/Fab-Lore/Mejorar_claude_fabri/tree/main/plugins/savvy-progress",
+  "repository": "https://github.com/Fab-Lore/Mejorar_claude_fabri",
   "license": "MIT"
 }

@@ -1,8 +1,8 @@
 {
   "name": "mod-claude",
   "owner": {
-    "name": "TU_USUARIO",
-    "url": "https://github.com/TU_USUARIO"
+    "name": "Fab-Lore",
+    "url": "https://github.com/Fab-Lore"
   },
   "metadata": {
     "description": "mod-claude: fork of johnnyvizz/claude-kit with a plan-usage meter and new agent costumes."
